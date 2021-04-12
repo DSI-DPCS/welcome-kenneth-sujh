@@ -1,2 +1,2 @@
-public Class Create{
+public class Create{
 }
